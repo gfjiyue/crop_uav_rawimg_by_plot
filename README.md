@@ -1,8 +1,10 @@
 # plot_crop_in_uav_rawimg
 This program is to crop raw UAV image by plot polygon file using reverse calculating. 
-It was test on Matlab R2018a.
 
 It is part of the open source programs designed for the field of plant phenotype analysis. 
+
+It was test on Matlab R2018a. Run the main.m with samples.
+Have fun!
 
 ## See details of the method in the following papers: 
 1 Duan, T. et al. Comparison of ground cover estimates from experiment plots in cotton, sorghum and sugarcane based on images and ortho-mosaics captured by UAV. Functional Plant Biology 44, 169 (2017). 
