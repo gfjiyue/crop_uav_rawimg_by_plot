@@ -9,5 +9,7 @@ It is part of the open source programs designed for the field of plant phenotype
 
 ## Contributor: 
 Yue Mu (Plant Phenomics Research Center, Nanjing Agricultural University) 
+
 Wei Guo (International Field Phenomics Research Laboratory, The university of Tokyo) 
+
 Bangyou Zheng (CSIRO Agriculture and Food)
