@@ -1,6 +1,6 @@
 %% import orthomosaic,shapefile,photo,M path
 clear;
-ROOT = 'D:\plot_crop_in_rawuavimg\samples\';
+ROOT = 'D:\plot_crop_in_uav_rawimg\samples\';
 name = dir([ROOT,'pix4D\']);
 name = cell2mat({name(3:end).name}');
 Plotpath=[ROOT,'plot\'];
