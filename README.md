@@ -14,6 +14,6 @@ Have fun!
 ## Contributor: 
 Yue Mu (Plant Phenomics Research Center, Nanjing Agricultural University) 
 
-Wei Guo (International Field Phenomics Research Laboratory, The university of Tokyo) 
+Wei Guo (International Field Phenomics Research Laboratory, The University of Tokyo) 
 
 Bangyou Zheng (CSIRO Agriculture and Food)
