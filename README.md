@@ -11,6 +11,8 @@ Have fun!
 
 2 Tresch L. et al. Easy MPE: Extraction of Quality Microplot Images for UAV-Based High-Throughput Field Phenotyping. Plant Phenomics 2019, 1–9 (2019). 
 
+Please cite the papers if you used the programs provided here.
+
 ## Contributor: 
 Yue Mu (Plant Phenomics Research Center, Nanjing Agricultural University) 
 
