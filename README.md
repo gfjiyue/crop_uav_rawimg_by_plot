@@ -1,4 +1,4 @@
-# plot_crop_in_uav_rawimg
+# crop_uav_rawimg_by_plot
 This program is to crop raw UAV image by plot polygon file using reverse calculating. 
 
 It is part of the open source programs designed for the field of plant phenotype analysis. 
