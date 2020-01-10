@@ -4,7 +4,7 @@ This program is to crop raw UAV image by plot polygon file using reverse calcula
 It is part of the open source programs designed for the field of plant phenotype analysis. 
 
 It was test on Matlab R2018a. Run the main.m with samples.
-The samples could be download after fill the google form.
+The samples could be downloaded after filling the google form.
 
 Fill the form from here:
 
